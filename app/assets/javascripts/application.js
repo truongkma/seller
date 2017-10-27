@@ -11,4 +11,13 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require metisMenu/jquery.metisMenu.js
+//= require pace/pace.min.js
+//= require peity/jquery.peity.min.js
+//= require slimscroll/jquery.slimscroll.min.js
+//= require bootstrap
+//= require jquery-creditcardvalidator/jquery.creditCardValidator.js
+//= require chartjs/Chart.min.js
+//= require inspinia/inspinia
+//= require inspinia/forms
 //= require_tree .
