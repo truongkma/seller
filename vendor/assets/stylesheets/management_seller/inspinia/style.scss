@@ -1,0 +1,51 @@
+/*
+ *
+ *   INSPINIA - Responsive Admin Theme
+ *   version 2.3
+ *
+*/
+
+// Google Fonts
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&lang=en");
+
+// Bootstrap
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+// Variables, Mixins
+@import "management_seller/inspinia/base/variables";
+@import "management_seller/inspinia/base/mixins";
+
+// INSPINIA Theme Elements
+@import "management_seller/inspinia/base/typography";
+@import "management_seller/inspinia/base/navigation";
+@import "management_seller/inspinia/base/top_navigation";
+@import "management_seller/inspinia/base/buttons";
+@import "management_seller/inspinia/base/badgets_labels";
+@import "management_seller/inspinia/base/elements";
+@import "management_seller/inspinia/base/sidebar";
+@import "management_seller/inspinia/base/base";
+@import "management_seller/inspinia/base/pages";
+@import "management_seller/inspinia/base/chat";
+@import "management_seller/inspinia/base/metismenu";
+@import "management_seller/inspinia/base/spinners";
+
+// Landing page
+@import "management_seller/inspinia/base/landing";
+
+// RTL Support
+@import "management_seller/inspinia/base/rtl";
+
+// For demo only - config box style
+@import "management_seller/inspinia/base/theme-config";
+
+// INSPINIA Skins
+@import "management_seller/inspinia/base/skins";
+@import "management_seller/inspinia/base/md-skin";
+
+// Media query style
+@import "management_seller/inspinia/base/media";
+
+// Custom style
+// Your custom style to override base style
+@import "management_seller/inspinia/base/custom";
